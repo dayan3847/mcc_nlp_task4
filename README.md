@@ -6,10 +6,10 @@
 
 #### Description
 
-From the one input file, 
-separate into two files, 
-one containing only the substantives 
-and the other containing only the verbs. 
+From the one input file,
+separate into two files,
+one containing only the substantives
+and the other containing only the verbs.
 According to Freeling PoS labeling.
 
 #### Response:
@@ -68,4 +68,29 @@ if __name__ == '__main__':
     extract_substantives_and_verbs('25_maneras_de_ganarse_a_la_gente')
 ```
 
-##### Output
+##### Output Files
+
+![alt text](./img/output.png "Output")
+
+###### Files Example1
+
+Substantives
+
+```text
+universidad
+estudiante
+México
+maestría
+país
+
+```
+
+Verbs
+
+```text
+vivir
+gustaría
+Soy
+gusta
+
+```
