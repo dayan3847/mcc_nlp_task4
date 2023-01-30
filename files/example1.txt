@@ -1,2 +1,3 @@
 Soy estudiante de maestría de una universidad de México.
-Me gusta mucho este país, y me gustaría vivir aquí.
+Estoy en el curso de Procesamiento de Lenguaje Natural.
+Aprendimos a usar la biblioteca Freeling
